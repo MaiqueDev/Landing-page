@@ -4,7 +4,10 @@
 
 ---
 
-Uma jornada para quem não tem medo do desconhecido. O caminho para o Mundo Invertido é incerto, repleto de obstáculos e perigos. Porém, a recompensa é grande: salvar Hawkings e o mundo todo das garras de Vecna. Você está preparado(a)?
+Uma jornada para quem não tem medo do desconhecido. O caminho para o Mundo Invertido é incerto, repleto de obstáculos e perigos. Porém, a recompensa é grande: salvar Hawkings e o mundo todo das garras de Vecna. Você está preparado(a)?...
+
+comecei dando a estrurutra basica do html com o atalho "!" selecionando a opção " ! emmet abbreviation", e alocando o titulo da pagina,
+sempre mantendo a indentação e consequentemente a organização do codigo, aplicando toda a metodologia passada de forma meticulosa.
 
 ## ▶️ Semana Front-end
 
